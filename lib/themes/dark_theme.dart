@@ -44,7 +44,7 @@ ThemeData buildDarkTheme() {
       // Customize bodyMedium text style
       bodyMedium: TextStyle(
         fontSize: 14,
-        color: Color(0xFFE0E0E0),
+        color: Color(0xFF616161),
       ),
       // Customize bodySmall text style
       bodySmall: TextStyle(

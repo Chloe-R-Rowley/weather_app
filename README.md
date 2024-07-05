@@ -29,7 +29,7 @@ This Flutter app fetches current weather information for a specified city using 
 
    Obtain your API key from OpenWeatherMap and add it to lib/services/weather_service.dart:
 
-   const String apiKey = 'YOUR_API_KEY_HERE';
+   "const String apiKey = 'YOUR_API_KEY_HERE';"
 
 3. **Run the app:**
 
@@ -38,6 +38,23 @@ This Flutter app fetches current weather information for a specified city using 
    ''flutter run''
 
    The app should build and launch on your device/emulator.
+
+
+
+Here are the sreenshots of the app:
+
+![alt text](WA_LT_home_screen.jpeg) ![alt text](WA_DT_home_screen.jpeg)
+
+![alt text](WA_LT_error.jpeg) ![alt text](WA_DT_error.jpeg) 
+
+![alt text](WA_LT_loading.jpeg) ![alt text](WA_DT_loading.jpeg) 
+
+![alt text](WA_LT_weather_details_screen.jpeg) ![alt text](WA_DT_weather_details_screen.jpeg)
+
+Here is the demo:
+
+[Watch the video](weather_app_video.mp4)
+
 
 
 This `README.md` file serves as a guide for users and contributors to understand, set up, and use your Flutter weather app effectively. Adjust it based on your specific app features and requirements.

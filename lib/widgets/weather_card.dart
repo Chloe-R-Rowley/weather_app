@@ -37,7 +37,7 @@ class WeatherCard extends StatelessWidget {
               ),
               const SizedBox(height: 4),
               Text(
-                "City Name",
+                "City",
                 style: Theme.of(context).textTheme.bodyMedium!,
               ),
               const SizedBox(height: 18),
@@ -66,7 +66,7 @@ class WeatherCard extends StatelessWidget {
               ),
               const SizedBox(height: 4),
               Text(
-                "Weather Description",
+                "Description",
                 style: Theme.of(context).textTheme.bodyMedium!,
               ),
               const SizedBox(height: 24),

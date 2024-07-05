@@ -9,7 +9,7 @@ import 'package:weather_app/themes/dark_theme.dart';
 import 'package:weather_app/themes/light_theme.dart';
 
 void main() async {
-  await dotenv.load(fileName: '/.env');
+  await dotenv.load(fileName: '.env');
   runApp(
     ChangeNotifierProvider(
       create: (context) => WeatherProvider(), // Initialize WeatherProvider as a ChangeNotifier
