@@ -43,17 +43,17 @@ This Flutter app fetches current weather information for a specified city using 
 
 Here are the sreenshots of the app:
 
-![alt text](WA_LT_home_screen.jpeg) ![alt text](WA_DT_home_screen.jpeg)
+![alt text](images-videos/WA_LT_home_screen.jpeg)<img height="200"> ![alt text](images-videos/WA_DT_home_screen.jpeg)<img height="200">
 
-![alt text](WA_LT_error.jpeg) ![alt text](WA_DT_error.jpeg) 
+![alt text](images-videos/WA_LT_error.jpeg)<img height="200"> ![alt text](images-videos/WA_DT_error.jpeg)<img height="200"> 
 
-![alt text](WA_LT_loading.jpeg) ![alt text](WA_DT_loading.jpeg) 
+![alt text](images-videos/WA_LT_loading.jpeg)<img height="200"> ![alt text](images-videos/WA_DT_loading.jpeg)<img height="200"> 
 
-![alt text](WA_LT_weather_details_screen.jpeg) ![alt text](WA_DT_weather_details_screen.jpeg)
+![alt text](images-videos/WA_LT_weather_details_screen.jpeg)<img height="200"> ![alt text](images-videos/WA_DT_weather_details_screen.jpeg)<img height="200">
 
 Here is the demo:
 
-[Watch the video](weather_app_video.mp4)
+[Watch the video](images-videos/weather_app_video.mp4)
 
 
 
