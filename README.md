@@ -39,16 +39,8 @@ This Flutter app fetches current weather information for a specified city using 
 
    The app should build and launch on your device/emulator.
 
+You can look at the screenshots and video here:
 
-
-Here are the sreenshots of the app:
-
-![Look at the screenshots](images-videos/)
-
-Here is the demo:
-
-[Watch the video](images-videos/weather_app_video.mp4)
-
-
+[Open this folder](images-videos/)
 
 This `README.md` file serves as a guide for users and contributors to understand, set up, and use your Flutter weather app effectively. Adjust it based on your specific app features and requirements.
